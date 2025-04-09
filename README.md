@@ -14,3 +14,18 @@
 
 
 Kod: zad1
+
+**Zadanie 2** Symfony
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/po/pull/3/commits/2a7f1601646651bfa13c14866961a1fee16983bc)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/po/pull/3/commits/2b21800cb034b71bdf89ab6f0a8166f4c47b9806)
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4 
+
+:x: 5.0 wymaganie 5
+
+
+Kod: zad2
