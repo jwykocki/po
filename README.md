@@ -29,3 +29,21 @@ Kod: zad1
 
 
 Kod: zad2
+
+**Zadanie 3** Kotlin Spring Boot
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/po/pull/4/commits/a01d7eaaa55f675ababdb5f162564e9cc0edae3f)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/po/pull/4/commits/a01d7eaaa55f675ababdb5f162564e9cc0edae3f)
+
+:white_check_mark: 4.0 wymaganie 3 [commit](https://github.com/jwykocki/po/pull/4/commits/a01d7eaaa55f675ababdb5f162564e9cc0edae3f)
+
+:white_check_mark: 4.5 wymaganie 4 [commit](https://github.com/jwykocki/po/pull/4/commits/a01d7eaaa55f675ababdb5f162564e9cc0edae3f)
+
+:white_check_mark: 5.0 wymaganie 5 [commit](https://github.com/jwykocki/po/pull/4/commits/bc6e9f596cd084a7f1cdb85ff2404d6245b0c87a)
+
+
+Kod: zad3
+
+
+
