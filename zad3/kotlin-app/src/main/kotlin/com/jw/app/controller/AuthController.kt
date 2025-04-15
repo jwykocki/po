@@ -3,18 +3,22 @@ package com.jw.app.controller
 import com.jw.app.model.AuthRequest
 import com.jw.app.model.UserDto
 import com.jw.app.service.AuthService
+import com.jw.app.service.LazyAuthService
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
+import org.springframework.context.annotation.Lazy
 
 @RestController
 @RequestMapping("/api/auth")
 class AuthController @Autowired constructor(
-    private val authService: AuthService
+    private val authService: AuthService,
+    @Lazy private val lazyAuthService: LazyAuthService
 ) {
 
     @GetMapping("/users")
     fun getUsers(): List<UserDto> {
-        return authService.getAllUsers()
+        println("Received request to get all users. Using AuthService.")
+        return lazyAuthService.getAllUsers()
     }
 
     @PostMapping("/login")

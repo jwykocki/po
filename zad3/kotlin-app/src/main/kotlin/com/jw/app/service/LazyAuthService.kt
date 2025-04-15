@@ -7,11 +7,12 @@ import org.springframework.context.annotation.Lazy
 import org.springframework.stereotype.Service
 
 @Service
-class AuthService {
+@Lazy
+class LazyAuthService {
 
     @PostConstruct
     fun init() {
-        println("Eager AuthService bean initialized")
+        println("Lazy AuthService bean initialized")
     }
 
     private val users = listOf(
