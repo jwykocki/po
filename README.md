@@ -45,5 +45,20 @@ Kod: zad2
 
 Kod: zad3
 
+**Zadanie 4** Go Gorm
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/po/pull/5/commits/36413b9a2c0a0bce3b6fa1d15d326f2e186d51f7)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/po/pull/5/commits/36413b9a2c0a0bce3b6fa1d15d326f2e186d51f7)
+
+:white_check_mark: 4.0 wymaganie 3 [commit](https://github.com/jwykocki/po/pull/5/commits/36413b9a2c0a0bce3b6fa1d15d326f2e186d51f7)
+
+:white_check_mark: 4.5 wymaganie 4 [commit](https://github.com/jwykocki/po/pull/5/commits/36413b9a2c0a0bce3b6fa1d15d326f2e186d51f7)
+
+:white_check_mark: 5.0 wymaganie 5 [commit](https://github.com/jwykocki/po/pull/5/commits/36413b9a2c0a0bce3b6fa1d15d326f2e186d51f7)
+
+
+Kod: zad4 
+
 
 
