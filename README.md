@@ -60,5 +60,20 @@ Kod: zad3
 
 Kod: zad4 
 
+**Zadanie 5** Wzorce behawioralne
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/po/pull/6/commits/f029fccf5985ccfe6500ed627a46931655b11ef5)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/po/pull/6/commits/f029fccf5985ccfe6500ed627a46931655b11ef5)
+
+:white_check_mark: 4.0 wymaganie 3 [commit](https://github.com/jwykocki/po/pull/6/commits/f029fccf5985ccfe6500ed627a46931655b11ef5)
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: zad5
+
 
 
