@@ -75,5 +75,20 @@ Kod: zad4
 
 Kod: zad5
 
+**Zadanie 6** Sonar
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/react-client-app/pull/1/commits/16e469403c444e8ada0688f8d932c7e5eaf862a7)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/react-client-app/pull/1/commits/074ed582bb9fe0ed8ae7716ff2021579c7c2155c)
+
+:x: 4.0 wymaganie 3 
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: zad6
+
 
 
