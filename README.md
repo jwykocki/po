@@ -90,5 +90,22 @@ Kod: zad5
 
 Kod: zad6
 
+**Zadanie 7** Swift Vapor
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/po/pull/8/commits/172b96e3513fe8963d8ded1a4176c7b62618a95c)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/po/pull/8/commits/172b96e3513fe8963d8ded1a4176c7b62618a95c)
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: zad7
+
+
+
 
 
