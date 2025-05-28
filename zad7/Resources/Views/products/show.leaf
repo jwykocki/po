@@ -1,0 +1,16 @@
+#extend("base"):
+    #export("title", "Szczegóły produktu")
+
+    #export("body"):
+        <h1>#(product.name)</h1>
+        <p><strong>Opis:</strong> #(product.description)</p>
+        <p><strong>Cena:</strong> #(product.price)</p>
+        <p><strong>Ilość:</strong> #(product.quantity)</p>
+
+        <a href="/products/#(product.id)/edit" class="btn btn-warning">Edytuj</a>
+        <form action="/products/#(product.id)/delete" method="post" style="display: inline;">
+            <button type="submit" class="btn btn-danger">Usuń</button>
+        </form>
+        <a href="/products" class="btn btn-secondary">Powrót</a>
+    #endexport
+#endextend
