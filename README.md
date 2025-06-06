@@ -105,6 +105,21 @@ Kod: zad6
 
 Kod: zad7
 
+**Zadanie 8** Selenium tests
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/po/pull/9/commits/926584d14c3170c3eb1a57e22d62b21354bb7400)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/po/pull/9/commits/926584d14c3170c3eb1a57e22d62b21354bb7400)
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: zad8
+
 
 
 
